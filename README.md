@@ -15,7 +15,7 @@ Clone the repository:
 
  
 ## Copy code
-git clone https://github.com/yourusername/nextjs-todo-app.git
+git clone https://github.com/ShaikInthiyaz786/nextjs-fullstack-todolist.git
 Navigate to the project directory:
 
  
